@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e51ec010-295b-4c85-8aa3-6f1e8700b928" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Session10/Exercise1/src/ra/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session11/Exercise7/src/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session11/Exercise7/src/MyListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HCM_JS220313_BS_ThaiNgocPhat" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HCM_JS220313_BS_ThaiNgocPhat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPSynthesis/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPSynthesis/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPSynthesis/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPSynthesis/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPSynthesis/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPSynthesis/OOPSynthesis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPSynthesis/src/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPSynthesis/src/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPSynthesis/src/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPSynthesis/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session11/Exercise7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session11/Exercise7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session11/Exercise7/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session11/Exercise9/src/StudentManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session11/Exercise9/src/StudentManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session4" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session6" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session8" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaCript/HCM-JAVA-04-2024-ontap" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaCript/HCM-JAVA-04-2024-ontap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaCript/Project Test/Session13-React-Redux-Toolkit" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaCript/Project Test/Session13-React-Redux-Toolkit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bacsic" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bacsic" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2i9OUdQQnV0L0biPJHm3o5hOdOH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/thaingocphat/RikkeiAcademy/Java/Session12/Exercise6/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-995e55e7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e51ec010-295b-4c85-8aa3-6f1e8700b928" name="Changes" comment="" />
+      <created>1718899342386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718899342386</updated>
+      <workItem from="1718899343406" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
